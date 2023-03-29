@@ -1,0 +1,18 @@
+{
+    "api":[
+        {
+            "id": 1,
+            "title": "Module 1",
+            "content": "Module 1 content",
+            "type": "book",
+            "active": true
+        },
+        {
+            "id": 2,
+            "title": "Module 2",
+            "content": "Module 2 content",
+            "type": "book",
+            "active": false
+        }
+    ]
+}
